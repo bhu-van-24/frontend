@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes,Route } from "react-router-dom"
-import Reg from "./components/Reg.jsx"
-import Home from "./components/Home.jsx" 
+import Reg from "./Reg" 
+import Home from "./Home" 
 
 function App()
 {
